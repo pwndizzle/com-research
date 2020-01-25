@@ -1,5 +1,3 @@
-# COM Research
-
 A collection of random bits of COM related POC code.
 
 - com-enum.ps1
@@ -16,7 +14,7 @@ A collection of random bits of COM related POC code.
   - Some C# code to enumerate files in temp locations and HKCU that are referenced by COM registry entries.
 
 
-## COM Examples
+### Examples
 
 Method enumeration using Powershell:
 ```
